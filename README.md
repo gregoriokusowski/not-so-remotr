@@ -1,19 +1,13 @@
-Smackbook for OS X Yosemite
+Not so Remotr
 ==================
 
-https://www.youtube.com/watch?v=4iyeqh9zHf8
+http://youtu.be/u7HXjRKID10
 
-This is an updated version of Erling Ellingsen's Smackbook script originally written in 2006.
+This is an fork from https://github.com/dabockster/Smackbook-Yosemite that aims to change Keynote slides by hitting your macbook.
+Also, by Remotr I mean [this](gregoriokusowski.github.io/remotr), that is a Sinatra application that changes your slides remotely via any browser on your network.
 
-This script uses the Sudden Motion Sensor (SMS) found in all modern Macbooks to detect the movement of the machine when light pressure is applied to either side of the screen. Since the SMS is, in reality, a triaxial accelerometer, many apps can read the data from it to give the Macbook a degree of awareness of its movement. Think of how a phone or tablet is used in this respect. The Macbook's SMS can be used in similar ways. This script is a rough demonstration of these capabilities.
+Enjoy!
 
-Wikipedia entry on the SMS:
-http://en.wikipedia.org/wiki/Sudden_Motion_Sensor
-
-Article from the author of AMSTracker:
-http://osxbook.com/book/bonus/chapter10/ams2hid
-
-I found this online after being virtually untouched for roughly eight years. (To put this in perspective, I was in the 7th grade when this script was initially released. As of this writing, I am a senior in college.) All it took was changing a few lines to update it to work for OS X Yosemite.
 
 USAGE
 ---------------
@@ -26,7 +20,7 @@ To use this script:
         ```
         perl smack.pl
         ```
-* ???
+* Open up your Keynote Presentation in presentation mode (press play or something like that)
 * Profit
 
 Licensed under GNU 2.0 due to inheritance from previous developers
