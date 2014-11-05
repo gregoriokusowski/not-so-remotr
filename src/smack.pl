@@ -66,9 +66,9 @@ while(<F>) {
 	# check if it is LEFT or RIGHT tap
 	# I use ^ArrowKeys for Leopard Spaces to switch.
 	if ($x < 0) {
-        	`osascript -e 'tell application \"System Events\" to keystroke (ASCII character 29) using control down'`
+        	`osascript -e 'Tell application \"Keynote\" to show next'`
 	} else {
-		`osascript -e 'tell application \"System Events\" to keystroke (ASCII character 28) using control down'`
+		`osascript -e 'Tell application \"Keynote\" to show previous'`
 	}
     }
 }
