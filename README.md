@@ -21,6 +21,7 @@ To use this script:
         perl smack.pl
         ```
 * Open up your Keynote Presentation in presentation mode (press play or something like that)
+* ...
 * Profit
 
 Licensed under GNU 2.0 due to inheritance from previous developers
