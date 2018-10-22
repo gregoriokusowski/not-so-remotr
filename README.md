@@ -4,7 +4,7 @@ Not so Remotr
 http://youtu.be/u7HXjRKID10
 
 This is an fork from https://github.com/dabockster/Smackbook-Yosemite that aims to change Keynote slides by hitting your macbook.
-Also, by Remotr I mean [this](gregoriokusowski.github.io/remotr), that is a Sinatra application that changes your slides remotely via any browser on your network.
+Also, by Remotr I mean [this](https://gregoriokusowski.github.io/remotr), that is a Sinatra application that changes your slides remotely via any browser on your network.
 
 Enjoy!
 
